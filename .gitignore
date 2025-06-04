@@ -11,3 +11,4 @@ target/
 
 # Ignore secrets
 src/test/resources/config.properties
+.env.example
