@@ -1,0 +1,13 @@
+# Ignore compiled class files
+target/
+*.class
+
+# Ignore IDE configs
+.idea/
+*.iml
+
+# Ignore OS files
+.DS_Store
+
+# Ignore secrets
+src/test/resources/config.properties
